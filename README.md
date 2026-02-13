@@ -1,6 +1,6 @@
 hu# Hi, I'm Rashi Rathod 👋✨
 
-🎓 **B.Sc Student** (Govt Science College, 2024–2028)  
+🎓 **BCA Student** (Govt Science College, 2024–2028)  
 💻 Learning **Python | Data Analysis | HTML & CSS**  
 📍 India  
 
